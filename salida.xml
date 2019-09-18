@@ -1,0 +1,24 @@
+<root>
+   <prediccion>
+      <dia fecha="12/12/2017">
+         <prob_precipitacion>4</prob_precipitacion>
+         <prob_precipitacion>1</prob_precipitacion>
+         <estado_cielo descripcion="Poco nuboso">10</estado_cielo>
+         <estado_cielo descripcion="Nuboso">11</estado_cielo>
+         <temperatura>
+            <maxima>23.0</maxima>
+            <minima>12.0</minima>
+         </temperatura>
+      </dia>
+      <dia fecha="13/12/2017">
+         <prob_precipitacion>4</prob_precipitacion>
+         <prob_precipitacion>1</prob_precipitacion>
+         <estado_cielo descripcion="Poco nuboso">10</estado_cielo>
+         <estado_cielo descripcion="Nuboso">11</estado_cielo>
+         <temperatura>
+            <maxima>21.0</maxima>
+            <minima>10.0</minima>
+         </temperatura>
+      </dia>
+   </prediccion>
+</root>
